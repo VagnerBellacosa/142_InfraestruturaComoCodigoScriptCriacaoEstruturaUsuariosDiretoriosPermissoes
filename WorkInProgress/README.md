@@ -17,7 +17,9 @@ Neste projeto iremos criar um script onde toda a infraestrutura de usuários, gr
 
 
 
-[Infraestrutura como código: Script de criação de estrutura de usuários, diretórios e permissões](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-criacao-de-estrutura-de-usuarios-diretorios-e-permissoes/learning/c83c768d-0350-4503-84dc-de52f1e9bd8d)[Entendendo o Desafio e Materiais de Apoio](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-criacao-de-estrutura-de-usuarios-diretorios-e-permissoes/learning/0556959c-e20e-4e02-8b0e-5f950c022b18)
+- [Infraestrutura como código: Script de criação de estrutura de usuários, diretórios e permissões](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-criacao-de-estrutura-de-usuarios-diretorios-e-permissoes/learning/c83c768d-0350-4503-84dc-de52f1e9bd8d)
+
+- [Entendendo o Desafio e Materiais de Apoio](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-criacao-de-estrutura-de-usuarios-diretorios-e-permissoes/learning/0556959c-e20e-4e02-8b0e-5f950c022b18)
 
 - CONTEÚDOS
 - INFORMAÇÕES
